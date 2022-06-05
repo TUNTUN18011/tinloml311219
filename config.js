@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'BimBim à!',
+    introTitle: 'BimBim à!!',
     introDesc: `Đơn phương anh 8 năm, ở bên anh chính thức hơn 2 năm 4 tháng.
     Em đã trải qua cả rồi, vui có, buồn có, hạnh phúc và đau khổ đến tột cùng đều có. 
     Có lúc em từng muốn bỏ cuộc, có lúc em ôm đầu khóc đến mức mệt rồi ngủ thiếp đi.
