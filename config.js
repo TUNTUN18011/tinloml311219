@@ -1,19 +1,24 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'BimBim à!',
+    introDesc: `Đơn phương anh 8 năm, ở bên anh chính thức hơn 2 năm 4 tháng.
+    Em đã trải qua cả rồi, vui có, buồn có, hạnh phúc và đau khổ đến tột cùng đều có. 
+    Có lúc em từng muốn bỏ cuộc, có lúc em ôm đầu khóc đến mức mệt rồi ngủ thiếp đi.
+    Ngày hôm sau lại tự an ủi bản thân là anh rất tốt, em thương anh rất nhiều.
+    Trong suốt hơn 10 năm kể từ lần đầu gặp, em chưa từng quên anh, cũng chưa từng ngừng hi vọng được ở cạnh anh.
+    Em và anh đã trải qua cùng nhau vô số việc, mỗi ngày em lại cảm thấy thương anh nhiều hơn một chút, mỗi ngày lại sợ mất anh thêm một chút,
+    Như thế này làm sao có thể nói rời đi là rời đi, nói quên là quên được chứ?
+    Thật sự lòng này em không nỡ...
+    Em chỉ muốn anh ở đây, nghe em nói, cho em một cái ôm cái, mọi khó khăn khác em đều có thể vượt qua <3`,
+    btnIntro: 'tamloml311219',
+    title: 'Anh hãy luôn nhớ là dù có khó khăn gì thì hãy nhớ anh không cô đơn và vẫn luôn có em thương và đợi anh',
+    desc: 'Người ta nói cuộc sống ngắn ngủi lắm, nếu còn tình cảm thì cứ ở bên nhau. Chúng ta làm quen lại từ đầu nhé?',
+    btnYes: 'Anh thương em <33',
+    btnNo: 'Không, anh hết thương em rồi T.T',
+    question:'Vậy thì cùng em bắt đầu lại nha <3',
+    btnReply: 'Gửi cho cục cưng <3',
+    reply: 'Anh muốn cùng em xây dựng lại từ đầu, tụi mình sẽ bên nhau mãi nha <33333333',
+    mess: 'Em thương anh rất nhiều, em sẽ không khiến anh thất vọng hay buồn một lần nào nữa😘😘',
+    messDesc: 'Ngày mai tụi mình hẹn hò nha',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
